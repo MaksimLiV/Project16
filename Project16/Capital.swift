@@ -6,7 +6,6 @@
 //
 
 import MapKit
-import UIKit
 
 class Capital: NSObject, MKAnnotation {
     var title: String?
